@@ -1,4 +1,4 @@
-# 552241A
+# 552241A Microsoft Azure Big Data Analytics Solutions
 Courseware Access:  https://www.softwaretutorialservices.com/course/552241a
 
 552241A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing. Different methods of using Azure will be discussed and practiced in lab exercises, such as Azure CLI, Azure PowerShell and Azure Portal.
